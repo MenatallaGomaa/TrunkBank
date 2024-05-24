@@ -10,7 +10,6 @@ import {
   Stats,
   Testimonials,
   Hero,
-  SignupPage,
 } from "./components";
 
 const App = () => (
@@ -37,7 +36,6 @@ const App = () => (
         <Clients />
         <CTA />
         <Footer />
-        <SignupPage />
       </div>
     </div>
   </div>
